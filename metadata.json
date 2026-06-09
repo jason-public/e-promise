@@ -1,0 +1,6 @@
+{
+  "name": "최현덕 남양주시장 당선인과 시만들과의 약속",
+  "description": "최현덕 남양주시장 당선인과 시만들과의 약속을 보여주는 플랫폼입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
