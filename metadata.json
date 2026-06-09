@@ -1,0 +1,6 @@
+{
+  "name": "남양주 시민공약 플랫폼",
+  "description": "남양주시 시민들을 위한 공약 이행 통합 플랫폼입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
