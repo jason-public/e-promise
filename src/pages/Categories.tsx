@@ -8,10 +8,11 @@ import { CategoryDialog } from "@/components/CategoryDialog"
 
 export default function Categories() {
   return (
+    <div className="min-h-screen bg-[#1b2c7a]">
       <div className="py-8 md:py-12 mx-auto max-w-7xl px-6 lg:px-8">
         <div className="mb-8">
-          <h1 className="text-2xl font-bold tracking-tight text-slate-900 sm:text-3xl">분야별 약속</h1>
-          <p className="mt-2 text-sm text-slate-600">
+          <h1 className="text-2xl font-bold tracking-tight text-white sm:text-3xl">분야별 약속</h1>
+          <p className="mt-2 text-sm text-gray-300">
             남양주시의 미래를 만들어갈 10대 분야별 시민 제안과 약속을 살펴보세요.
           </p>
         </div>
@@ -56,6 +57,7 @@ export default function Categories() {
             </CategoryDialog>
           </motion.div>
         ))}
+        </div>
       </div>
     </div>
   )
