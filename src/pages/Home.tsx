@@ -10,7 +10,7 @@ export default function Home() {
         <div 
           className="absolute inset-[0px] bg-no-repeat bg-[left_80px] md:bg-[250px_center] bg-[length:120%_auto] sm:bg-[length:90%_auto] md:bg-[length:70%_auto] lg:bg-[length:60%_auto]"
           style={{ 
-            backgroundImage: "url('https://raw.githubusercontent.com/jason-public/e-promise/949cc37e841158300a44083406d4237ecce939da/public/hero-bg.webp')",
+            backgroundImage: "url('https://github.com/jason-public/e-promise/blob/95a8125c15b3f2739575c5f8e83f88e919e175e8/public/hero-bg.webp')",
             maskImage: "radial-gradient(ellipse at 30% 30%, black 50%, transparent 100%)",
             WebkitMaskImage: "radial-gradient(ellipse at 30% 30%, black 50%, transparent 100%)"
           }}
